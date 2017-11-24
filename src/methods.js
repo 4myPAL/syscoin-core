@@ -114,5 +114,17 @@ export default {
         },
         version: '>==2.2.0'
     },
-    walletPassphraseChange: { version: '>=2.2.0' }
+    walletPassphraseChange: { version: '>=2.2.0' },
+    privatesend: { version: '>=2.2.0' },
+    getpoolinfo: { version: '>=2.2.0' },
+    masternode: { version: '>=2.2.0' },
+    masternodelist: { version: '>=2.2.0' },
+    masternodebroadcast: { version: '>=2.2.0' },
+    sentinelping: { version: '>=2.2.0' },
+    gobject: { version: '>=2.2.0' },
+    voteraw: { version: '>=2.2.0' },
+    getgovernanceinfo: { version: '>=2.2.0' },
+    getsuperblockbudget: { version: '>=2.2.0' }
+
+
 };
